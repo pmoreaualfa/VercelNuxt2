@@ -1,5 +1,5 @@
 ---
-title: Export Excel pour webdirect
+title: Export Excel pour webdirect dév
 description: Procédure pour implémenter la fonction d'exportation sous format Excel pour les utilisateurs de Passage via webdirect
 slug: export-excel-webdirect
 tag: ['passage', 'export', 'excel', 'webdirect']
