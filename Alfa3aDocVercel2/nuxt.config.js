@@ -21,11 +21,7 @@ export default {
   css: [],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: [
-    '~/plugins/api-client.js',
-    '~/plugins/api-dateTest.js',
-    '~/plugins/api-userTest.js'
-  ],
+  plugins: [],
   ////////////////////////////////////////////
   // PM / test middleware
   serverMiddleware: [
