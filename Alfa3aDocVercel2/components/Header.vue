@@ -2,7 +2,7 @@
   <header class="bg-yellow-500">
     <nuxt-link to="/" class="text-red-600">
       <div class="flex flex-row">
-          <cercleAlfa class="w-12 h-12 mr-6" />
+      <cercleAlfa class="w-12 h-12 mr-6" />
         <div class="text-red-600 text-2xl mt-2">
           Alfa3a
         </div>
@@ -10,7 +10,7 @@
     </nuxt-link>
     <nav>
       <nuxt-link to="/documents" class="text-red-600">Documentation</nuxt-link>
-      <nuxt-link to="/apiTests" class="text-red-600">API</nuxt-link>
+     
     </nav>
   </header>
 </template>
