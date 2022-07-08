@@ -24,11 +24,7 @@ export default {
   plugins: [],
   ////////////////////////////////////////////
   // PM / test middleware
-  serverMiddleware: [
-    {path: '/api', handler: '~/api/index.js'},
-    {path: '/api/dateTest', handler: '~/api/dateTest/index.js'},
-    // {path: '/api/userTest', handler: '~/api/userTest/index.js'},
-  ],
+  serverMiddleware: [],
   ////////////////////////////////////////////
   
   // Auto import components: https://go.nuxtjs.dev/config-components
